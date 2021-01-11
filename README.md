@@ -11,6 +11,22 @@ From the Instructor: This course is NOT a programming class, and is not
 structured like other 100- and 200-level courses.  In this course, we will
 do many proofs and even have some writing exercises. 
 
+## Land Acknowledgemen
+
+Living in Montana, we are on the ancestral lands of American Indians, including
+the 12 tribal nations that call Montana home today: A’aninin (Gros Ventre),
+Amskapi/Piikani (Blackfeet), Annishinabe (Chippewa/Ojibway), Annishinabe/Métis
+(Little Shell Chippewa), Apsáalooke (Crow), Ktunaxa/Ksanka (Kootenai), Lakota,
+Dakota (Sioux), Nakoda (Assiniboine), Ne-i-yah-wahk (Plains Cree), Qíispé (Pend
+d’Oreille), Seliš (Salish), and Tsétsêhéstâhese/So’taahe (Northern Cheyenne).
+We honor and respect these tribal nations as we live, work, learn, and play in
+this state.
+
+To learn more about Montana Indians, I suggest starting with the following
+pamphlet:
+[Essential Understandings Regarding Montana
+Indian](http://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Indian%20Education%20101/essentialunderstandings.pdf)
+
 ## Course Outcomes and Objectives
 By the end of this course, a student will:
 
