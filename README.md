@@ -1,0 +1,254 @@
+# CSCI 246: Discrete Structures, Spring 2021 #
+
+This repository is for class materials for Discrete Structures, Fall 2021, taught by Prof. Fasy.
+
+Course Catalog Description: This course covers logic, discrete probability,
+recurrence relations, Boolean algebra, sets, relations, counting, functions,
+maps, Big-O notation, proof techniques including induction, and proof by
+contradiction.
+
+From the Instructor: This course is NOT a programming class, and is not
+structured like the 132 and 232 courses the precede it.  In this course, we will
+do many proofs (especially using induction), and will be writing pseudo-code, not
+code.
+
+## Course Outcomes and Objectives
+By the end of this course, a student will:
+
+- Be able to use formal proof techniques, including mathematical induction and proof by contradiction.
+- Understand algorithmic complexity and be able to use it to compare different program designs for a problem.
+- Solve problems that use logic, sets, and functions.
+- Solve problems using Boolean algebra.
+- Solve problems that use permutations and combinations.
+- Solve problems that use discrete probability.
+- Solve problems that use basic graph theory.
+
+## When and Where?
+
+When? MWF 08:00-08:50
+Where? Zoom 
+
+## How do I contact you?
+
+The preferred method to ask questions relating to this class is a public post on
+the class discussion board. ***TODO: preferred discussion board?*** 
+
+Office hours: Please email or call in advance if you plan to join.  This will
+eliminate waiting (both on your end and on our end).
+
+* Prof. Fasy (x4804): MW, after class, and by appointment.
+* TA: TODO 
+
+## What is in this repository?
+
+The folders in this repository contain all materials for this class.
+
+- hw: homework assignments
+- README.md: The syllabus and schedule (this file)
+
+The schedule is at the bottom of this Markdown file.  If you want to learn more
+about Markdown, check out [this tutorial](https://www.markdowntutorial.com/).
+
+## Accessing this Repo
+
+The repository is set as public, so you can access all course materials easily.
+I suggest [creating a fork](https://help.github.com/articles/fork-a-repo/), 
+so that you can use your fork to maintain your own
+materials for this class.  See the resources section below for forking directions.
+
+To clone this repo:
+```
+$ git clone https://bitbucket.org/msu-cs/csci-246-fall2018.git
+```
+
+## Other Course Tools 
+
+- Group discussions, questions, and announcements will be through [Piazza](TODO).
+- Homework will be graded on Gradescope.
+
+## Grading
+Your grade for this class will be determined by:
+
+- 10% WebAssign and Class Participation 
+- 30% Homework
+- 20% Midterm
+- 20% Final 
+- 10% Miscellaneous Opportunities
+
+## Class Policies
+
+### Policy on Class Attendance
+
+Class attendance and participation is required.
+
+### Policy on Homework 
+
+All assignments must be submitted by 23:59 on the due date. Late
+assignments will not be accepted.
+
+Throughout this semester, we will have 8 homework assignments, plus an "(n+1)st
+assignment".  Your lowest homework assignment (not the (n+1)st) will be dropped.
+
+For descriptive assignments and reports, the submission should be typeset in
+LaTex, and submitted as a PDF both in D2L and Gradescope. Please use the
+template provided.
+
+***Do not search for answers to the problems.*** You will learn in this class by
+solving the problems. Regurgitating solutions you found elsewhere will not help
+you learn the material.  If you feel that you need additional resources, please
+ask for the instructor or TA.
+
+For code assignments (if applicable), well-organized source code with clear
+comments should be submitted.
+
+### Policy on Collaboration
+Collaboration is encouraged on all aspects of the class, except where explicitly 
+forbidden. Note:
+
+- All collaboration (who and what) must be clearly indicated in writing on
+  anything turned in.  
+- Homework may be solved collaboratively except as explicitly forbidden, but
+  solutions must be written up **independently**.  This is best done by writing
+  your solutions when not in a group setting.  Groups should be small enough
+  that each member plays a significant role.
+
+### Zoom Classroom Etiquette
+
+Please come to class prepared by reading and working on homework problems
+throughout the week.  We welcome questions!  In the Zoom breakout rooms, we
+expect that you are actively working on problems.  If needed, start your group
+by recapping what was discussed right before going into the breakout room or
+during the class period before.  If something is unclear, ask for a
+clarification from your classmate.  If your group is unsure of what the task is,
+please ask and do not sit idle!
+
+### Withdrawing
+
+If you are considering withdrawing from this class, discussing this with the
+instructor or TA as early as possible is advised.
+
+### Special Needs Information
+
+If you have a documented disability for which you are or may be requesting an
+accommodation(s), please contact me and Disabled
+Student Services within the first two weeks of class.
+
+### Diversity Statement
+
+Montana State University considers the diversity of its students, faculty, and
+staff to be a strength and critical to its educational mission. MSU expects
+every member of the university community to contribute to an inclusive and
+respectful culture for all in its classrooms, work environments, and at campus
+events.  Dimensions of diversity can include sex, race, age, national origin,
+ethnicity, gender identity and expression, intellectual and physical ability,
+sexual orientation, income, faith and non-faith perspectives, socio-economic
+status, political ideology, education, primary language, family status, military
+experience, cognitive style, and communication style. The individual
+intersection of these experiences and characteristics must be valued in our
+community.
+
+If there are aspects of the design, instruction, and/or experiences within this
+course that result in barriers to your inclusion or accurate assessment of
+achievement, please notify the instructor as soon as possible and/or contact
+Disability Services or the Office of Institutional Equity.
+
+### Taking a Class during the COVID-19 Pandemic
+
+This class will be held synchronously online.  However, you (or your
+family/friends) might become ill with COVID-19 or something else, which can make
+even remote attendance difficult.  If this happens, please communicate with the
+instructor as soon as possible to minimize impact on your academic experience.
+Also, we welcome feedback throughout the semester about what is working well /
+not working well with the online delivery.  Doing so will help this be a better
+experience for all!
+
+
+## MSU Policies
+
+### Academic Integrity
+
+The integrity of the academic process requires that credit be given where credit
+is due. Accordingly, it is academic misconduct to present the ideas or works of
+another as one's own work, or to permit another to present one's work without
+customary and proper acknowledgment of authorship. Students may collaborate with
+other students only as expressly permitted by the instructor. Students are
+responsible for the honest completion and representation of their work, the
+appropriate citation of sources and the respect and recognition of others'
+academic endeavors.
+
+Plagiarism will not be tolerated in this course. According to the Meriam-Webster
+dictionary, plagiarism is `the act of using another person's words or ideas
+without giving credit to that person.'  Proper credit means describing all
+outside resources (conversations, websites, etc.), and explaining the extent to
+which the resource was used.  Penalties for plagiarism at MSU include (but are
+not limited to) failing the assignment, failing the class, or having your degree
+revoked.  This is serious, so do not plagiarize.
+Even inadvertent or unintentional misuse or appropriation of another's work
+(such as relying heavily on source material that is not expressly acknowledged)
+is considered plagiarism. 
+
+By participating in this class, you agree to abide by the Student Code of
+Conduct.  This includes the following academic expectations:
+
+- be prompt and regular in attending classes;
+- be well-prepared for classes;
+- submit required assignments in a timely manner;
+- take exams when scheduled, unless rescheduled under 310.01;
+- act in a respectful manner toward other students and the instructor and in a
+  way that does not detract from the learning experience; and
+- make and keep appointments when necessary to meet with the instructor. 
+
+## MSU Drug and Alcohol Policies
+
+```
+Per the Code of Conduct for students, no student may come to class under the
+influence of drugs or alcohol, as that would not be `Fostering a healthy, safe
+and productive campus and community.`  See [Alcohol and Drug Policies
+Website](http://www.montana.edu/deanofstudents/alcoholanddrugs.html) for more
+information.  In particular, note:
+
+As a federally-funded institution, we must adhere to all federal laws when it
+comes to alcohol and drug use or distribution. This holds true for marijuana as
+well. Using or distributing marijuana on or off campus is a violation of our
+code of conduct even if a student has a medical card or comes from a state in
+which marijuana is legal or has been decriminalized.
+
+As noted, the University's alcohol and drug policies apply off campus. Using
+drugs and/or alcohol and returning to your residence hall in a disruptive
+fashion- either via odor, noise, destruction, etc- can lead to residence life
+policy and alcohol or drug policy violations. Remember, not everyone wants to
+hear or smell you.
+```
+
+## Resources
+
+### Technical Resources
+
+- [Git Udacity
+  Course](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+- [Forking in Git](https://help.github.com/articles/fork-a-repo/)
+- [Markdown](http://daringfireball.net/projects/markdown/)
+- [More Markdown](https://www.markdowntutorial.com/)
+- [Inkscape Can Tutorial](http://tavmjong.free.fr/INKSCAPE/MANUAL/html/SoupCan.html)
+- [Plagiarism Tutorial](http://www.lib.usm.edu/legacy/plag/pretest_new.php)]
+- [Ott's 10 Tips](http://www.ms.uky.edu/~kott/proof_help.pdf)
+- [Big-O, Intuitive Explanation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
+
+### Course Textbook(s) 
+
+- Epp's Discrete Mathematics (with Webassign; must be purchased through school
+  bookstore)
+- Wilson's Four Colors Suffice (color edition)
+
+## Schedule
+
+### Week 1 (TODO: dates)
+- Topics: TODO 
+- Reading: TODO 
+- Online Quiz: TODO 
+
+--- 
+
+This syllabus was created, using wording from previous courses that I have
+taught, as well as David Millman's Spring 2018 Graphics course.  Thanks, Dr.
+Millman!
