@@ -68,11 +68,11 @@ $ git clone https://bitbucket.org/msu-cs/csci-246-fall2018.git
 ## Grading
 Your grade for this class will be determined by:
 
-- 10% WebAssign and Class Participation 
-- 30% Homework
-- 20% Midterm
-- 20% Final 
-- 10% Miscellaneous Opportunities
+- ??% WebAssign and Class Participation 
+- ??% Homework
+- ??% Midterm
+- ??% Final 
+- ??% Miscellaneous Opportunities
 
 ## Class Policies
 
