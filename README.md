@@ -240,10 +240,9 @@ hear or smell you.
 
 ## Schedule
 
-### Week 1 (TODO: dates)
-- Topics: TODO 
-- Reading: TODO 
-- Online Quiz: TODO 
+### Week 1 (11 January 2021)
+- Topics: Introduction to Proofs, LaTex 
+- Reading: Chapters 1 and 2
 
 --- 
 
