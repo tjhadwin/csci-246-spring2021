@@ -86,7 +86,7 @@ Class attendance and participation is required.
 All assignments must be submitted by 23:59 on the due date. Late
 assignments will not be accepted.
 
-Throughout this semester, we will have 8 homework assignments, plus an "(n+1)st
+Throughout this semester, we will have 8 or 9 homework assignments, plus an "(n+1)st
 assignment".  Your lowest homework assignment (not the (n+1)st) will be dropped.
 
 For descriptive assignments and reports, the submission should be typeset in
@@ -161,7 +161,6 @@ instructor as soon as possible to minimize impact on your academic experience.
 Also, we welcome feedback throughout the semester about what is working well /
 not working well with the online delivery.  Doing so will help this be a better
 experience for all!
-
 
 ## MSU Policies
 
