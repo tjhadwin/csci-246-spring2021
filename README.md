@@ -8,9 +8,8 @@ maps, Big-O notation, proof techniques including induction, and proof by
 contradiction.
 
 From the Instructor: This course is NOT a programming class, and is not
-structured like the 132 and 232 courses the precede it.  In this course, we will
-do many proofs (especially using induction), and will be writing pseudo-code, not
-code.
+structured like other 100- and 200-level courses.  In this course, we will
+do many proofs and even have some writing exercises. 
 
 ## Course Outcomes and Objectives
 By the end of this course, a student will:
