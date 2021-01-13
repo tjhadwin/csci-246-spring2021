@@ -30,7 +30,8 @@ with [Try Git](try.github.com).
 ## Setup SSH Keys
 
 If you really like typing, you can connect to GitHub using HTTPs access.
-However, I suggest using SSH.  [See instructions here](git@github.com:msu/csci-246-spring2021.git)
+However, I suggest using SSH.  [See instructions here](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/connecting-to-github-with-ssh
+)
 
 ## Clone the course repository
 
