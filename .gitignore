@@ -1,1 +1,24 @@
 hw/*/H-*.pdf
+
+# for LaTex
+######################
+*.aux
+*.bcf
+*.bbl
+*.blg
+*-blx.bib
+*.d
+*.fls
+*.nav
+*.out
+*.toc
+*.snm
+*-hashable
+*.run.xml
+*.fdb_latexmk
+*-view.pdf
+*.vtc
+
+# For notes that don't need to be committed
+######################
+tmp.txt
