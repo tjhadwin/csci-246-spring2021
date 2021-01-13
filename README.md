@@ -259,6 +259,8 @@ hear or smell you.
 ### Week 1 (11 January 2021)
 - Topics: Introduction to Proofs, LaTex 
 - Reading: Chapters 1 and 2
+- Miro Links: [M](https://miro.com/app/board/o9J_lYjeVOc=/), [W](https://miro.com/app/board/o9J_lYjeVAM=/),
+  [Wb](https://miro.com/app/board/o9J_lYjeVOc=/), F
 
 --- 
 
