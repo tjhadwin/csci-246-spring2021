@@ -71,10 +71,17 @@ I suggest [creating a fork](https://help.github.com/articles/fork-a-repo/),
 so that you can use your fork to maintain your own
 materials for this class.  See the resources section below for forking directions.
 
-To clone this repo:
+To clone this repo using HTTPS:
 ```
-$ git clone https://bitbucket.org/msu-cs/csci-246-fall2018.git
+$ git clone https://github.com/brittany/csci-246-spring2021.git
+
 ```
+
+To clone this repo using SSH:
+```
+$ git clone git@github.com:msu/csci-246-spring2021.git
+```
+
 
 ## Other Course Tools 
 
