@@ -85,7 +85,8 @@ $ git clone git@github.com:msu/csci-246-spring2021.git
 
 ## Other Course Tools 
 
-- Group discussions, questions, and announcements will be through [Piazza](TODO).
+- Group discussions, questions, and announcements will be through [Discord](
+https://discord.com/channels/798957218384183427/798957219885350986).
 - Homework will be graded on Gradescope.
 
 ## Grading
