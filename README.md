@@ -92,6 +92,7 @@ https://discord.com/channels/798957218384183427/798957219885350986).
 ## Grading
 Your grade for this class will be determined by:
 
+TODO: will be updated shortly
 - ??% WebAssign and Class Participation 
 - ??% Homework
 - ??% Midterm
