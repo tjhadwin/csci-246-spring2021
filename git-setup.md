@@ -1,16 +1,16 @@
-# Working with a Git Fork
+# Working with a Git Remote
 
 This markdown file contains a brief tutorial for how to use the basic git
 features that will make this semester easier for you.  This is based on the [CSCI 441
 Lab
 tutorial](https://bitbucket.org/msu-cs/csci-441-spring2020/src/master/labs/README.md).
 
-## Sign up for Github
+## 1. Sign up for Github
 
 First, you'll need a GitHub account, so [sign up
 here](https://github.com/join).
 
-## Install Git
+## 2. Install Git
 
 Now, we need to make sure git is installed on your computer. There are a number of git GUI
 clients, including
@@ -27,20 +27,20 @@ git](http://git-scm.com/downloads).  If you've never used git before you might
 want to [read up on the docs](http://git-scm.com/doc), or go through the basics
 with [Try Git](try.github.com).
 
-## Setup SSH Keys
+## 3. Setup SSH Keys
 
 If you really like typing, you can connect to GitHub using HTTPs access.
 However, I suggest using SSH.  [See instructions here](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/connecting-to-github-with-ssh
 )
 
-## Clone the course repository
+## 4. Clone the course repository
 
 To clone the repository, type the following in your command line:
 
     git clone git@github.com:msu/csci-246-spring2021.git 
 
 
-## Duplicate the Repository
+## 5. Duplicate the Repository
 
 Forks in git are public by default.  You can use a fork if you'd like, but I
 will suggest duplicating the repository to a private git repository.  See the
@@ -48,7 +48,7 @@ following link for details:
 [Directions
 Here](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/duplicating-a-repository)
 
-## Clone your repository
+## 6. Clone your repository
 
 To download your repository so it's ready for modifications, we need to clone
 it.  Run the following command with <repo url> replaced with the url to your
@@ -56,7 +56,7 @@ private repository (you can find this by clicking the Code button in GitHub).
 
     git clone <repo url>
 
-## How to pull the latest assignments
+## 7. How to pull the latest assignments
 
 I'll be adding assignments here throughout the semester so you'll need to add
 this repository as a remote that you can pull changes from. Make sure you cd
@@ -84,7 +84,7 @@ assignments by running the following:
 For more information and troubleshooting, [see
 here](https://docs.github.com/en/free-pro-team@latest/github/using-git/adding-a-remote).
 
-## How To Save Your Work
+## 8. How To Save Your Work
 
 Once you start making changes to your code, you'll want to commit those changes
 and push them back up to Bitbucket. You should do this often to keep a good
@@ -132,7 +132,7 @@ computer and on your own laptop) and have made changes to one of them and pushed
 those changes up to the server, you can use `git pull` from the other location
 to bring it up to date.
 
-## More Git Basics
+## 9. More Git Basics
 
 Git is a distributed version control system (VCS). When you cloned the
 repository above, you downloaded every change that has ever been made to the
