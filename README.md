@@ -93,11 +93,11 @@ https://discord.com/channels/798957218384183427/798957219885350986).
 Your grade for this class will be determined by:
 
 TODO: will be updated shortly
-- ??% WebAssign and Class Participation 
-- ??% Homework
-- ??% Midterm
-- ??% Final 
-- ??% Miscellaneous Opportunities
+- 30% WebAssign and Class Participation 
+- 30% Homework
+- 15% Midterm
+- 15% Final 
+- 12% Miscellaneous Opportunities
 
 ## Class Policies
 
