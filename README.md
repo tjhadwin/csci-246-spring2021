@@ -272,6 +272,15 @@ hear or smell you.
   [Wb](https://miro.com/app/board/o9J_lYjeVOc=/),
   [F](https://miro.com/app/board/o9J_lY4PAhw=/)
 
+### Week 2 (18 January 2021)
+- Monday is a holiday: MLK day
+- Topics: Introduction to Proofs, LaTex 
+- Reading: Chapter 2
+- Miro Links: [W]()https://miro.com/app/board/o9J_lYfSSec=/,
+  [Wb](https://miro.com/app/board/o9J_lYfSTkQ=/)
+
+
+
 --- 
 
 This syllabus was created, using wording from previous courses that I have
