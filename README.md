@@ -276,7 +276,7 @@ hear or smell you.
 - Topics: Introduction to Proofs, LaTex 
 - Reading: Chapter 2
 - Miro Links: [W](https://miro.com/app/board/o9J_lYfSSec=/),
-  [Wb](https://miro.com/app/board/o9J_lYfSTkQ=/), F, Fb
+  [Wb](https://miro.com/app/board/o9J_lYfSTkQ=/), [F](https://miro.com/app/board/o9J_lXxJB5M=/), [Fb](https://miro.com/app/board/o9J_lXxJBHc=/)
 
 
 
