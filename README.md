@@ -273,10 +273,17 @@ hear or smell you.
 
 ### Week 2 (18 January 2021)
 - Monday is a holiday: MLK day
-- Topics: Introduction to Proofs, LaTex 
+- Topics: Sets, Truth Tables 
 - Reading: Chapter 2
 - Miro Links: [W](https://miro.com/app/board/o9J_lYfSSec=/),
   [Wb](https://miro.com/app/board/o9J_lYfSTkQ=/), [F](https://miro.com/app/board/o9J_lXxJB5M=/), [Fb](https://miro.com/app/board/o9J_lXxVOK4=/)
+
+### Week 3 (24 January 2021)
+- Topics: Compound Logic Statements, Predicates, and Quantified Statements 
+- Reading: Chapter 3 
+- Miro Links: [M](https://miro.com/app/board/o9J_lXAMeqs=/),
+  [Mb](https://miro.com/app/board/o9J_lXAMe_E=/), W, Wb, F, Fb 
+
 
 
 
