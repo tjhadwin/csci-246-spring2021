@@ -282,7 +282,8 @@ hear or smell you.
 - Topics: Compound Logic Statements, Predicates, and Quantified Statements 
 - Reading: Chapter 3 
 - Miro Links: [M](https://miro.com/app/board/o9J_lXAMeqs=/),
-  [Mb](https://miro.com/app/board/o9J_lXAMe_E=/), W, Wb, F, Fb 
+  [Mb](https://miro.com/app/board/o9J_lXAMe_E=/), [W](https://miro.com/app/board/o9J_lWjUKUY=/),
+  [Wb](https://miro.com/app/board/o9J_lWjUKV8=/), F, Fb 
 
 
 
