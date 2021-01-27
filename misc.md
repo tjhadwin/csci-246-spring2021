@@ -42,6 +42,7 @@ Monday, 26 April 2021 since the actual event that you attend is not fixed).
 The due dates for these assignments is one week after the event.
 
 A. [Audun Myers, Separating Noise from Data using Sublevel Set Persistence with Application to Damping Estimation](https://zoom.us/j/97989984180?pwd=MVExY1JzQ1N3S0RJZ3pTRnc4MWlkUT09).  Monday, 25 January at 15:10.
+
 B. [Peng Zhang, Efficient Algorithms for Fundamental Problems in Data
 Science](https://montana.webex.com/montana/j.php?MTID=m16141ab25b6a846dc83b104c6ff50c2b).
 Tuesday, 26 January at 15:00.  Passsword is`jZJK2sAPn87.
