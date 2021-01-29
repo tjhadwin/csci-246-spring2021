@@ -52,7 +52,7 @@ Office hours: Please email or call in advance if you plan to join.  This will
 eliminate waiting (both on your end and on our end).
 
 * Prof. Fasy (x4804): MW, after class, and by appointment.
-* TA: TODO 
+* TA: Monday 11am-12pm by appointment. Please schedule an appointment using [MSU Appointment Scheduler](https://www.montana.edu/scheduler/login/student/?fac=11433).
 
 ## What is in this repository?
 
