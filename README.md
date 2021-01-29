@@ -283,7 +283,8 @@ hear or smell you.
 - Reading: Chapter 3 
 - Miro Links: [M](https://miro.com/app/board/o9J_lXAMeqs=/),
   [Mb](https://miro.com/app/board/o9J_lXAMe_E=/), [W](https://miro.com/app/board/o9J_lWjUKUY=/),
-  [Wb](https://miro.com/app/board/o9J_lWjUKV8=/), F, Fb 
+  [Wb](https://miro.com/app/board/o9J_lWjUKV8=/), [F](https://miro.com/app/board/o9J_lW0dcX4=/),
+  [Fb](https://miro.com/app/board/o9J_lW0dcQs=/) 
 
 
 
