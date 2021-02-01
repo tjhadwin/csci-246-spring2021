@@ -94,8 +94,8 @@ Your grade for this class will be determined by:
 
 - 30% WebAssign and Class Participation 
 - 30% Homework
-- 15% Midterm
-- 15% Final 
+- 15% Midterm (12 March 2021)
+- 15% Final (30 April 2021) 
 - 12% Miscellaneous Opportunities
 
 ## Class Policies
