@@ -36,6 +36,9 @@ Monday, 26 April 2021 since the actual event that you attend is not fixed).
 3. Complete a virtual escape room.  In your two-page write-up, explain how you solved at
    least one of the problems, and note the connections to things that we have
    learned in this class.  Be sure to include your team photo in the submission!
+4. Learn about a faculty member at MSU.  Choose a faculty member at MSU (can be
+   from any department), and write a two-page summary about their research area.
+   Be sure to cite at least one of their papers or books.
 
 ## With Specific Dates
 
