@@ -286,7 +286,11 @@ hear or smell you.
   [Wb](https://miro.com/app/board/o9J_lWjUKV8=/), [F](https://miro.com/app/board/o9J_lW0dcX4=/),
   [Fb](https://miro.com/app/board/o9J_lW0dcQs=/) 
 
-
+### Week 4 (1 February 2021)
+- Topics: Basic Arguments
+- Reading: Chapter 3
+- Miro Links: [M](https://miro.com/app/board/o9J_lWHaFy4=/),
+  [Mb](https://miro.com/app/board/o9J_lWHaFE8=/)
 
 
 --- 
