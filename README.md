@@ -290,7 +290,9 @@ hear or smell you.
 - Topics: Basic Arguments
 - Reading: Chapter 3
 - Miro Links: [M](https://miro.com/app/board/o9J_lWHaFy4=/),
-  [Mb](https://miro.com/app/board/o9J_lWHaFE8=/)
+  [Mb](https://miro.com/app/board/o9J_lWHaFE8=/),
+  [W](https://miro.com/app/board/o9J_lVg2hgU=/),
+  [Wb](https://miro.com/app/board/o9J_lVg2hsU=/)
 
 
 --- 
