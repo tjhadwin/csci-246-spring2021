@@ -296,6 +296,11 @@ hear or smell you.
   [F](https://miro.com/app/board/o9J_lV4QR0I=/),
   [Fb](https://miro.com/app/board/o9J_lV4QR1k=/)
 
+### Week 5 (8 February 2021)
+- Topics: Direct Proof and Counter Example
+- Reading: Sections 4.1-6
+- Miro Links: [M](https://miro.com/app/board/o9J_lVMrS4M=/),
+    [Mb](https://miro.com/app/board/o9J_lVMrSHk=/)
 
 --- 
 
