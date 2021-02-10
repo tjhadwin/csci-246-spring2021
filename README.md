@@ -300,7 +300,9 @@ hear or smell you.
 - Topics: Direct Proof and Counter Example
 - Reading: Sections 4.1-6
 - Miro Links: [M](https://miro.com/app/board/o9J_lVMrS4M=/),
-    [Mb](https://miro.com/app/board/o9J_lVMrSHk=/)
+    [Mb](https://miro.com/app/board/o9J_lVMrSHk=/),
+    [W](https://miro.com/app/board/o9J_lUqwRXU=/),
+    [Wb](https://miro.com/app/board/o9J_lUqwRX0=/)
 
 --- 
 
