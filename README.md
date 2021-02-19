@@ -310,7 +310,9 @@ hear or smell you.
 - Topics: proof by contradiction, gcd algorithm
 - Reading: Chapter 4
 - Miro Links: [W](https://miro.com/app/board/o9J_lTtx36M=/),
-    [Wb](https://miro.com/app/board/o9J_lTtx3OE=/)
+    [Wb](https://miro.com/app/board/o9J_lTtx3OE=/),
+    [F](https://miro.com/app/board/o9J_lTLipvY=/),
+    [Fb](https://miro.com/app/board/o9J_lTLipvk=/)
 
 --- 
 
