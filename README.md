@@ -314,6 +314,12 @@ hear or smell you.
     [F](https://miro.com/app/board/o9J_lTLipvY=/),
     [Fb](https://miro.com/app/board/o9J_lTLipvk=/)
 
+### Week 7 (22 February 2021)
+- Topics: Induction
+- Reading: Chapter 5
+- Miro Links: [M](https://miro.com/app/board/o9J_lTY9Gr0=/),
+    [Mb](https://miro.com/app/board/o9J_lTY9G1E=/)
+
 --- 
 
 This syllabus was created, using wording from previous courses that I have
