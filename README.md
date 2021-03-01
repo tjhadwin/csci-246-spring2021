@@ -324,6 +324,12 @@ hear or smell you.
     [F](https://miro.com/app/board/o9J_lSI1AyI=/),
     [Fb](https://miro.com/app/board/o9J_lSI1A9I=/)
 
+### Week 7 (22 February 2021)
+- Topics: Induction and Recursion
+- Reading: Chapter 5
+- Miro Links: [M](https://miro.com/app/board/o9J_lRncUt8=/),
+    [Mb](https://miro.com/app/board/o9J_lRncUtk=/)
+
 --- 
 
 This syllabus was created, using wording from previous courses that I have
