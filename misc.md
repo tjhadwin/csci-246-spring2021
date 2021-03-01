@@ -39,6 +39,9 @@ Monday, 26 April 2021 since the actual event that you attend is not fixed).
 4. Learn about a faculty member at MSU.  Choose a faculty member at MSU (can be
    from any department), and write a two-page summary about their research area.
    Be sure to cite at least one of their papers or books.
+5. Complete three inductive proofs from the following list, including at least
+   one of the starred problems:
+   [PDF](https://www.math.waikato.ac.nz/~hawthorn/MATH102/InductionProblems.pdf)
 
 ## With Specific Dates
 
