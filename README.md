@@ -328,7 +328,9 @@ hear or smell you.
 - Topics: Induction and Recursion
 - Reading: Chapter 5
 - Miro Links: [M](https://miro.com/app/board/o9J_lRncUt8=/),
-    [Mb](https://miro.com/app/board/o9J_lRncUtk=/)
+    [Mb](https://miro.com/app/board/o9J_lRncUtk=/),
+    [W](https://miro.com/app/board/o9J_lRCYU9s=/),
+    [Wb](https://miro.com/app/board/o9J_lRCYU-U=/)
 
 --- 
 
