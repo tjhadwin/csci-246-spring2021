@@ -42,6 +42,10 @@ Monday, 26 April 2021 since the actual event that you attend is not fixed).
 5. Complete three inductive proofs from the following list, including at least
    one of the starred problems:
    [PDF](https://www.math.waikato.ac.nz/~hawthorn/MATH102/InductionProblems.pdf)
+6. The course website might have typos.  If you see one, fix it and issue a pull
+   request (PR). [More about
+   PRs](https://www.atlassian.com/git/tutorials/making-a-pull-request)
+
 
 ## With Specific Dates
 
