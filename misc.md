@@ -69,3 +69,9 @@ as a group and discuss any themes that emerged.  To earn miscellaneous credit,
 you should make the suggested edits to your writing sample and submit the
 original version, submitted version, and a one-half to one-page write-up
 explaining what you learned about technical writing from this experience.
+
+D. CS Wellness Workshop.  Wednesday, 10 March at 16:30.  Write a 1-2 page
+reflection on this event. Make the reflection your own, and only share what you
+are comfortable sharing.  To help prompt you, consider the following questions:
+Did you learn something new?  What do you already do that is working well for
+your health and well-being? Do you have any wellness goals?
