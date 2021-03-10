@@ -338,7 +338,9 @@ hear or smell you.
 - Topics: More induction, and boolean algebras 
 - Reading: Chapters 5 & 6
 - Miro Links: [M](https://miro.com/app/board/o9J_lQw_Vek=/),
-    [Mb](https://miro.com/app/board/o9J_lQw_Vbg=/)
+    [Mb](https://miro.com/app/board/o9J_lQw_Vbg=/),
+    [W](https://miro.com/app/board/o9J_lQSs0x0=/),
+    [Wb](https://miro.com/app/board/o9J_lQSs0H0=/)
 --- 
 
 This syllabus was created, using wording from previous courses that I have
