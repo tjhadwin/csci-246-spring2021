@@ -75,3 +75,8 @@ reflection on this event. Make the reflection your own, and only share what you
 are comfortable sharing.  To help prompt you, consider the following questions:
 Did you learn something new?  What do you already do that is working well for
 your health and well-being? Do you have any wellness goals?
+
+E. Provost distinguished lecture.  Dr. John Sheppard gave the provost
+distinguished lecture on 9 March 2021.  The recording is available
+[here](https://www.montana.edu/pdl/).  Please watch this and write a reflection
+(see prompts at the top of this file).  Due: 17 March 2021.
