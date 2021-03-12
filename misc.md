@@ -45,7 +45,11 @@ Monday, 26 April 2021 since the actual event that you attend is not fixed).
 6. The course website might have typos.  If you see one, fix it and issue a pull
    request (PR). [More about
    PRs](https://www.atlassian.com/git/tutorials/making-a-pull-request)
-
+7. Do something for yourself. Make an appointment with a wellness coach, try a
+   new (online) exercise class, try going to bed earlier for a week, etc. Write
+   a one-page reflection on whatever it is you did. What
+   impact that that have on your ability to focus?  Do you have any additional
+   short-term goals that you can set for your future self?
 
 ## With Specific Dates
 
