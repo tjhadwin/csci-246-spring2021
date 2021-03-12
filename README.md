@@ -340,7 +340,9 @@ hear or smell you.
 - Miro Links: [M](https://miro.com/app/board/o9J_lQw_Vek=/),
     [Mb](https://miro.com/app/board/o9J_lQw_Vbg=/),
     [W](https://miro.com/app/board/o9J_lQSs0x0=/),
-    [Wb](https://miro.com/app/board/o9J_lQSs0H0=/)
+    [Wb](https://miro.com/app/board/o9J_lQSs0H0=/),
+    [F](https://miro.com/app/board/o9J_lPucMq4=/),
+    [Fb](https://miro.com/app/board/o9J_lPucM0Q=/)
 --- 
 
 This syllabus was created, using wording from previous courses that I have
