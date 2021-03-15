@@ -344,7 +344,7 @@ hear or smell you.
     [F](https://miro.com/app/board/o9J_lPucMq4=/),
     [Fb](https://miro.com/app/board/o9J_lPucM0Q=/)
 
-### Week 9 (15 March 2021)
+### Week 10 (15 March 2021)
 - Topics: Functions
 - Reading: Chapter 7
 - Miro Links: [M](https://miro.com/app/board/o9J_lPAKI28=/),
