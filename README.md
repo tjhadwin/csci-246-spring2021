@@ -343,6 +343,13 @@ hear or smell you.
     [Wb](https://miro.com/app/board/o9J_lQSs0H0=/),
     [F](https://miro.com/app/board/o9J_lPucMq4=/),
     [Fb](https://miro.com/app/board/o9J_lPucM0Q=/)
+
+### Week 9 (15 March 2021)
+- Topics: Functions
+- Reading: Chapter 7
+- Miro Links: [M](https://miro.com/app/board/o9J_lPAKI28=/),
+    [Mb](https://miro.com/app/board/o9J_lPAKI2g=/)
+
 --- 
 
 This syllabus was created, using wording from previous courses that I have
