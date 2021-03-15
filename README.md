@@ -324,7 +324,7 @@ hear or smell you.
     [F](https://miro.com/app/board/o9J_lSI1AyI=/),
     [Fb](https://miro.com/app/board/o9J_lSI1A9I=/)
 
-### Week 7 (1 March 2021)
+### Week 8 (1 March 2021)
 - Topics: Induction and Recursion, loop invariants
 - Reading: Chapter 5
 - Miro Links: [M](https://miro.com/app/board/o9J_lRncUt8=/),
@@ -334,7 +334,7 @@ hear or smell you.
     [F](https://miro.com/app/board/o9J_lReZ9tQ=/),
     [Fb](https://miro.com/app/board/o9J_lReZ9to=/)
 
-### Week 8 (8 March 2021)
+### Week 9 (8 March 2021)
 - Topics: More induction, and boolean algebras 
 - Reading: Chapters 5 & 6
 - Miro Links: [M](https://miro.com/app/board/o9J_lQw_Vek=/),
