@@ -348,7 +348,9 @@ hear or smell you.
 - Topics: Functions
 - Reading: Chapter 7
 - Miro Links: [M](https://miro.com/app/board/o9J_lPAKI28=/),
-    [Mb](https://miro.com/app/board/o9J_lPAKI2g=/)
+    [Mb](https://miro.com/app/board/o9J_lPAKI2g=/),
+    [W](https://miro.com/app/board/o9J_lOm8zv0=/),
+    [Wb](https://miro.com/app/board/o9J_lOm8zos=/)
 
 --- 
 
