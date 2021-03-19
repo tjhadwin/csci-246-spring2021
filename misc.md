@@ -84,3 +84,6 @@ E. Provost distinguished lecture.  Dr. John Sheppard gave the provost
 distinguished lecture on 9 March 2021.  The recording is available
 [here](https://www.montana.edu/pdl/).  Please watch this and write a reflection
 (see prompts at the top of this file).  Due: 17 March 2021.
+
+F. Boolean Algebra.  Let $S$ be a set.  Let $2^S$ denote the power set of $S$.  Consider the two operations of union and intersection of sets in $2^S$.  Prove that this forms a boolean algebra.  Due: 29 March 2021.
+intersection.
