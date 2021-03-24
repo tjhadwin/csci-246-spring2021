@@ -358,7 +358,9 @@ hear or smell you.
 - Topics: Relations
 - Reading: Chapter 8
 - Miro Links: [M](https://miro.com/app/board/o9J_lOYSHWw=/),
-    [Mb](https://miro.com/app/board/o9J_lOYSHXw=/)
+    [Mb](https://miro.com/app/board/o9J_lOYSHXw=/),
+    [W](https://miro.com/app/board/o9J_lN5CHpQ=/),
+    [Wb](https://miro.com/app/board/o9J_lN5CHq8=/)
 
 --- 
 )
