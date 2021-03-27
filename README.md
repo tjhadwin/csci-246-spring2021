@@ -1,6 +1,6 @@
 # CSCI 246: Discrete Structures, Spring 2021 #
 
-This repository is for class materials for Discrete Structures, Fall 2021, taught by Prof. Fasy.
+This repository is for class materials for Discrete Structures, Spring 2021, taught by Prof. Fasy.
 
 Course Catalog Description: This course covers logic, discrete probability,
 recurrence relations, Boolean algebra, sets, relations, counting, functions,
