@@ -1,0 +1,232 @@
+\documentclass{article}
+\usepackage{../fasy-hw}
+
+%% UPDATE these variables:
+\renewcommand{\hwnum}{6}
+\title{Discrete Structures, Homework \hwnum}
+\author{\todo{Your Name Here} (\todo{your discord handle here})}
+\collab{n/a}
+\date{due: 2 April 2021}
+
+\begin{document}
+
+\maketitle
+
+This homework assignment should be
+submitted as a single PDF file both to D2L and to Gradescope.
+
+General homework expectations:
+\begin{itemize}
+    \item Homework should be typeset using LaTex.
+    \item Answers should be in complete sentences and proofread.
+    \item You will not plagiarize, nor will you share your written solutions
+        with classmates.
+    \item List collaborators at the start of each question using the \texttt{collab} command.
+    \item Put your answers where the \texttt{todo} command currently is (and
+        remove the \texttt{todo}, but not the word \texttt{Answer}).
+\end{itemize}
+
+
+% ============================================
+% ============================================
+\collab{\todo{}} \nextprob{Applications}
+% ============================================
+% ============================================
+
+The topics in this class are mathematical in nature, but have strong ties to
+computer science: either for understanding how computers work, why alogithms are
+correct, or for how to convert real-world data into things that can be analyzed
+using a computer.  Explain how each of the following tie to computer science or
+data science:
+
+\begin{enumerate}
+
+    \item Tree (be sure that your answer needs a tree, and not a general graph)
+
+        \paragraph{Answer}
+
+        \todo{your answer here}
+
+    \item Directed Graph
+
+        \paragraph{Answer}
+
+        \todo{your answer here}
+
+    \item Equivalence Classes
+
+        \paragraph{Answer}
+
+        \todo{your answer here}
+
+    \item Distance Metrics
+
+        \paragraph{Answer}
+
+        \todo{your answer here}
+
+    \item Distance Metrics
+
+        \paragraph{Answer}
+
+        \todo{your answer here}
+
+    \item Injective Function
+
+        \paragraph{Answer}
+
+        \todo{your answer here}
+
+
+\end{enumerate}
+
+
+% ============================================
+% ============================================
+\collab{\todo{}} \nextprob{Distance Functions}
+% ============================================
+% ============================================
+
+Suppose you maintain a database of cocktail recipes.  You want to write a
+application that asks a user for their favorite cocktail and returns a cocktail
+that they might like.  To do so, you define the distance between two cocktails
+to be the symmetric distance between their ingredient lists.  Then, for the
+input cocktail, you compute the distance to every cocktail in your database and
+return one of the cocktails that minimizes this distance.
+
+\begin{enumerate}
+
+    \item Prove that this distance is a metric. (Note: first, formally write out
+        what the distance function is, including the domain and codomain).
+
+        \paragraph{Answer}
+
+        \todo{your answer here}
+
+    \item Is this a good distance to use for your application?  Why or why not?
+
+        \paragraph{Answer}
+
+        \todo{your answer here}
+
+\end{enumerate}
+
+
+% ============================================
+% ============================================
+\collab{\todo{}} \nextprob{Loop Invariant}
+% ============================================
+% ============================================
+
+Recall that a loop invariant is used to prove that a loop is correct (which in
+turn helps to prove that an algorithm is correct).
+
+\begin{enumerate}
+
+    \item Write pseudocode that uses a while loop to find the second largest
+        element in an unsorted array.  The input to your algorithm should be an
+        unsorted array $A$ of real values.  The psuedocode should use the
+        variable name \textsc{curguess} to store the current guess of the second
+        largest value, and \textsc{curmax} to store the current max of $A$.
+
+        \paragraph{Answer}
+
+        \todo{your answer here}
+
+    \item What is the postcondition of the loop? (Call this statement $Q$).
+
+        \paragraph{Answer}
+
+        \todo{your answer here}
+
+    \item What is the precondition of the loop? (Call this statement $P$).
+
+        \paragraph{Answer}
+
+        \todo{your answer here}
+
+    \item What is the loop guard of the loop? (Call this statement $G$).
+
+        \paragraph{Answer}
+
+        \todo{your answer here}
+
+    \item Prove that the loop invariant is when entering the $i^\text{th}$
+        iteration of the loop is, ``the variable \textsc{curguess} stores
+        the second
+        largest value of $A[1,2, \ldots, i]$,
+        and \textsc{curmax} stores the largest value of $A[1,2,\ldots, i]$.
+
+        \paragraph{Answer}
+
+        \todo{your answer here}
+
+\end{enumerate}
+
+
+
+% ============================================
+% ============================================
+\collab{\todo{}} \nextprob{Four Colors Suffice}
+% ============================================
+% ============================================
+
+Read Chapters $9$ and $10$ of \emph{Four Colors Suffice}.
+
+\begin{enumerate}
+
+    \item What is a \emph{reducible configuration}?
+
+        \paragraph{Answer}
+
+        \todo{your answer here}
+
+
+
+    \item Who was the first to correctly prove the four color theorem?  What
+        role did computers play in the proof?
+
+        \paragraph{Answer}
+
+        \todo{your answer here}
+
+
+
+
+    \item Draw a ``map'' on the M\"obius strip that requires five or more colors
+        to color.
+
+        \paragraph{Answer}
+
+        \todo{your answer here}
+
+
+\end{enumerate}
+
+% ============================================
+% ============================================
+\collab{\todo{}}
+\nextprob{Shafi Goldwasser}
+% ============================================
+% ============================================
+
+Write a short (1-2 paragraph) biography of Shafi Goldwasser.
+\textbf{In your own words}, describe who they are and why they are important in
+the history of computer science.
+
+If you use external resources, please provide
+proper citations. If you do not use external sources, please write ``I did not
+use any sources to write this biography'' as the last sentence of the
+biography.
+
+\paragraph{Answer}
+
+\todo{your answer here}
+
+% %% ... the bibliography
+% \newpage
+% \bibliographystyle{acm}
+% \bibliography{biblio}
+
+\end{document}
+
