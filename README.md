@@ -364,6 +364,11 @@ hear or smell you.
     [F](https://miro.com/app/board/o9J_lNbk66A=/),
     [Fb](https://miro.com/app/board/o9J_lNbk67M=/)
 
+### Week 12
+
+- Miro Links: [M](https://miro.com/app/board/o9J_lMtHemg=/),
+    [Mb](https://miro.com/app/board/o9J_lMtHen8=/)
+
 --- 
 )
 This syllabus was created, using wording from previous courses that I have
