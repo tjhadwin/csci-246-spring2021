@@ -366,8 +366,12 @@ hear or smell you.
 
 ### Week 12
 
+- Topics: Probability 
+- Reading: Chapter 9
 - Miro Links: [M](https://miro.com/app/board/o9J_lMtHemg=/),
-    [Mb](https://miro.com/app/board/o9J_lMtHen8=/)
+    [Mb](https://miro.com/app/board/o9J_lMtHen8=/),
+    [W](https://miro.com/app/board/o9J_lMGNUN8=/),
+    [Wb](https://miro.com/app/board/o9J_lMGNUOY=/)
 
 --- 
 )
