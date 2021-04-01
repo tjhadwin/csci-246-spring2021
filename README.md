@@ -11,7 +11,7 @@ From the Instructor: This course is NOT a programming class, and is not
 structured like other 100- and 200-level courses.  In this course, we will
 do many proofs and even have some writing exercises. 
 
-## Land Acknowledgemen
+## Land Acknowledgement
 
 Living in Montana, we are on the ancestral lands of American Indians, including
 the 12 tribal nations that call Montana home today: A’aninin (Gros Ventre),
