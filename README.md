@@ -381,7 +381,7 @@ hear or smell you.
   [Mb](https://miro.com/app/board/o9J_lLuQ1qA=/)
 
 --- 
-)
+
 This syllabus was created, using wording from previous courses that I have
 taught, as well as David Millman's Spring 2018 Graphics course.  Thanks, Dr.
 Millman!
