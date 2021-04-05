@@ -93,3 +93,6 @@ distinguished lecture on 9 March 2021.  The recording is available
 
 F. Boolean Algebra.  Let $S$ be a set.  Let $2^S$ denote the power set of $S$.  Consider the two operations of union and intersection of sets in $2^S$.  Prove that this forms a boolean algebra.  Due: 29 March 2021.
 intersection.
+
+G. Anna's Practice Talk.  Attend the PhD proposal practice talk of Anna
+Schenfisch on Tuesday, 6 April 15:00-16:30 (see link in discord).
