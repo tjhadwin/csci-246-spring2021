@@ -50,6 +50,12 @@ Monday, 26 April 2021 since the actual event that you attend is not fixed).
    a one-page reflection on whatever it is you did. What
    impact that that have on your ability to focus?  Do you have any additional
    short-term goals that you can set for your future self?
+8. Visit the art exhit
+   [The Botany of Math](http://www.theemerson.org/events/exhibit-mathre/)
+   at the Emerson.  Write a 1-2 page reflection on your experience.
+9. Find a reference (direct or indirect) of something relating to this class in
+   the news.  Was the concept used or applied correctly?  Using this article,
+   explain the concept to your imaginary 8-year-old sibling.
 
 ## With Specific Dates
 
