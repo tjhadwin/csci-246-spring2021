@@ -378,7 +378,9 @@ hear or smell you.
 - Topics: Probability and Graphs
 - Reading: Chapter 9 and 10
 - Miro Links: [M](https://miro.com/app/board/o9J_lLuQ110=/),
-  [Mb](https://miro.com/app/board/o9J_lLuQ1qA=/)
+  [Mb](https://miro.com/app/board/o9J_lLuQ1qA=/),
+  [W](https://miro.com/app/board/o9J_lLKju6Y=/),
+  [Wb](https://miro.com/app/board/o9J_lLKju5A=/)
 
 --- 
 )
