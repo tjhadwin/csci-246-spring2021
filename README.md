@@ -384,6 +384,13 @@ hear or smell you.
   [F](https://miro.com/app/board/o9J_lKlKZn0=/),
   [Fb](https://miro.com/app/board/o9J_lKlKZgQ=/)
 
+### Week 14
+
+- Topics: Probability and Graphs
+- Reading: Chapter 9 and 10
+- Miro Links: [M](https://miro.com/app/board/o9J_lK7APus=/),
+    [Mb](https://miro.com/app/board/o9J_lK7APow=/)
+
 --- 
 
 This syllabus was created, using wording from previous courses that I have
